@@ -1,16 +1,31 @@
-# deposits_app
+# Deposits App UI
 
-A new Flutter project.
+Мобильное приложение на Flutter для учета банковских вкладов.
 
-## Getting Started
+## Возможности
 
-This project is a starting point for a Flutter application.
+- Добавление вклада
+- Добавление в избранное
+- Просмотр всех вкладов
+- Просмотр избранных вкладов
+- Удаление вклада свайпом
+- Отмена удаления
 
-A few resources to get you started if this is your first Flutter project:
+## Технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- StatefulWidget / setState
+- TabBar / TabBarView
+- ListView
+- Dismissible
+- TextField
+- ModalBottomSheet
+- SnackBar
+- FloatingActionButton
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск проекта
+
+```bash
+flutter pub get
+flutter run
