@@ -23,9 +23,3 @@
 - ModalBottomSheet
 - SnackBar
 - FloatingActionButton
-
-## Запуск проекта
-
-```bash
-flutter pub get
-flutter run
